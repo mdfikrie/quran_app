@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   inkscape:export-ydpi="300"
+   inkscape:export-xdpi="300"
+   inkscape:export-filename="D:\PROJECT\Inkscape\Microstock\fresh tropical floral decorative frame.png"
+   sodipodi:docname="islamic-symbol-rub-el-hizb-free.svg"
+   inkscape:version="1.0 (4035a4fb49, 2020-05-01)"
+   width="4000.0px"
+   height="4000.0px"
+   viewBox="0 0 4000.0 4000.0"
+   version="1.1"
+   id="SVGRoot">
+  <defs
+     id="defs117" />
+  <sodipodi:namedview
+     inkscape:pagecheckerboard="true"
+     inkscape:window-maximized="1"
+     inkscape:window-y="-9"
+     inkscape:window-x="-9"
+     inkscape:window-height="1001"
+     inkscape:window-width="1920"
+     showgrid="false"
+     inkscape:document-rotation="0"
+     inkscape:current-layer="layer1"
+     inkscape:document-units="px"
+     inkscape:cy="2000"
+     inkscape:cx="1745.5835"
+     inkscape:zoom="0.20025"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     borderopacity="1.0"
+     bordercolor="#666666"
+     pagecolor="#ffffff"
+     id="base">
+    <inkscape:grid
+       id="grid1445"
+       type="xygrid" />
+    <sodipodi:guide
+       id="guide1499"
+       orientation="0,4000"
+       position="0,4000" />
+    <sodipodi:guide
+       id="guide1501"
+       orientation="4000,0"
+       position="4000,4000" />
+    <sodipodi:guide
+       id="guide1503"
+       orientation="0,-4000"
+       position="4000,0" />
+    <sodipodi:guide
+       id="guide1505"
+       orientation="-4000,0"
+       position="0,0" />
+  </sodipodi:namedview>
+  <metadata
+     id="metadata120">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     style="display:inline"
+     inkscape:label="background"
+     id="layer2"
+     inkscape:groupmode="layer">
+    <rect
+       style="fill:#ffffff;fill-rule:evenodd;stroke:none;stroke-width:12.4271;stroke-linecap:square;stroke-linejoin:round;stroke-dashoffset:27.7039;paint-order:fill markers stroke"
+       id="rect1507"
+       width="4000"
+       height="4000"
+       x="0"
+       y="0" />
+  </g>
+  <g
+     style="display:inline"
+     id="layer1"
+     inkscape:groupmode="layer"
+     inkscape:label="Lapis 1">
+    <path
+       d="M 1999.998,419.15825 1536.9801,882.17622 H 882.17635 V 1536.98 l -463.01802,463.0179 463.01802,463.018 v 654.8079 h 654.80375 l 463.0179,463.0179 463.018,-463.0179 h 654.8076 v -654.8079 l 463.018,-463.018 -463.018,-463.0179 V 882.17622 H 2463.016 Z"
+       style="fill:#00aa44;stroke:none;stroke-width:76.9114;stroke-linecap:round;stroke-linejoin:round;paint-order:markers stroke fill;fill-opacity:1"
+       id="rect921" />
+    <path
+       id="path928"
+       style="fill:#ffffff;stroke:none;stroke-width:69.8656;stroke-linecap:round;stroke-linejoin:round;paint-order:markers stroke fill"
+       d="m 1999.9982,563.97723 -420.6014,420.60146 h -594.818 v 594.81801 l -420.6015,420.6014 420.6015,420.6015 v 594.8217 h 594.818 l 420.6014,420.6014 420.6015,-420.6014 h 594.8214 v -594.8217 l 420.6015,-420.6015 -420.6015,-420.6014 V 984.57869 h -594.8214 z" />
+    <path
+       d="m 1999.9984,738.75876 -369.409,369.40914 H 1108.168 v 522.4214 l -369.40919,369.409 369.40919,369.4092 v 522.4246 h 522.4214 l 369.409,369.4091 369.4092,-369.4091 h 522.4243 v -522.4246 l 369.4092,-369.4092 -369.4092,-369.409 v -522.4214 h -522.4243 z"
+       style="fill:#165016;stroke:none;stroke-width:61.3621;stroke-linecap:round;stroke-linejoin:round;paint-order:markers stroke fill"
+       id="path930" />
+    <path
+       id="path932"
+       style="fill:#ffffff;stroke:none;stroke-width:52.6157;stroke-linecap:round;stroke-linejoin:round;paint-order:markers stroke fill"
+       d="m 1999.9986,918.53404 -316.754,316.75416 h -447.9564 v 447.9563 l -316.75412,316.7541 316.75412,316.7542 v 447.959 h 447.9564 l 316.754,316.7541 316.7542,-316.7541 h 447.9589 v -447.959 l 316.7542,-316.7542 -316.7542,-316.7541 v -447.9563 h -447.9589 z" />
+  </g>
+</svg>
